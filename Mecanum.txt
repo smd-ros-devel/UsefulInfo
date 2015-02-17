@@ -1,2 +1,3 @@
 Mecanum Knowledge:
-Motors: 
+Motors: http://www.superdroidrobots.com/shop/item.aspx/ig42-24vdc-122-rpm-gear-motor-with-encoder/849/
+420 encoder pulses per revolution
