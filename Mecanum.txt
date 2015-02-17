@@ -1,3 +1,4 @@
 Mecanum Knowledge:
 Motors: http://www.superdroidrobots.com/shop/item.aspx/ig42-24vdc-122-rpm-gear-motor-with-encoder/849/
+  Might also be the 240 rpm motor, will check on that and updated. Probably.
 420 encoder pulses per revolution
